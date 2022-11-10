@@ -1,1 +1,3 @@
 # card-deck-anki
+
+O anki é um programa open source cujo objetivo é criar cartões de memorização, ele é bem versátil e contém várias ferramentas que ajudam e a opção de personalizar os decks de acordo com necessidade. Além disso, uma opção do app é poder personalizar os cartões de memorização, usando HTML E CSS. O inglês antes era um diferencial, hoje já é um requisito obrigatório em diversas empresas, sem contar que diversos conteúdos de extremo valor se encontram apenas no inglês. dessa forma, esse projeto tem como objetivo criar uma card para que eu possa ultilizar no meu Anki, para assim dar uma melhor aparência e consequentemene eu consigar ter uma eficiênia maior nos meu estudos de inglês.
