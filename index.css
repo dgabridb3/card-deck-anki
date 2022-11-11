@@ -1,0 +1,101 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Rubik", sans-serif;
+  color: #2b303b;
+}
+body{
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+main{
+  margin-top: 100px;
+  min-width: 300px;
+  padding: 0 20px;
+  max-width: 500px;
+  border-radius: 50px;
+  min-height: 300px;
+  
+}
+
+.front-card{
+  min-width: 100%;
+  max-width: 100%;
+  background-color: #55676b;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  padding: 10px 25px;
+  min-height: 100px;
+}
+.front-card p{
+  
+  font-size: 20px;
+  font-family: times;
+  font-style: italic;
+  word-break: break-word;
+  color: #ebe8d5;
+}
+.front-card h1{
+  font-family: Arial;
+  font-size: 30px;
+  color: #ebe8d5;
+}
+
+.back-card{
+  min-width: 100%;
+  max-width: 100%;
+  background-color:  #ede8d5;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 10px 25px;
+  
+}
+.back-card .definition-and-img {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.back-card .definition-and-img h2{
+  color:  #9da39f;
+  font-size: 20px;
+  margin: 10px 0;
+  
+}
+.back-card .definition-and-img p {
+  width: 70px;
+  height: 70px;
+  background-color: #8076FE;
+  border-radius: 20px;
+}
+.back-card .sinonimos h3{
+  color:  #7795b1;
+  font-size: 17px;
+  margin-top: 10px;
+}
+.back-card .sinonimos p:first-of-type{
+  color:  #7795b1;
+  font-size: 15px;
+}
+.back-card .sinonimos p{
+  
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 10px;
+
+}
+
+
+
+
